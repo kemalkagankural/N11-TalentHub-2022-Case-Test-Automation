@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="amazon-selenium-yt" />
+        <module name="n11_talenthub_test_autamation-main" />
+        <module name="n11_TalentHub_2022_Case_Test_Automation" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

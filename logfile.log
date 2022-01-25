@@ -1,0 +1,1145 @@
+2022-01-20 16:46:00,453 INFO  [Log] search_a_product() PASSED 
+2022-01-20 16:46:09,381 INFO  [Log] select_a_product() PASSED 
+2022-01-20 16:46:11,162 INFO  [Log] add_product_to_cart() PASSED 
+2022-01-20 16:46:12,557 INFO  [Log] go_to_cart() PASSED 
+2022-01-20 17:23:35,393 INFO  [Log] search_a_product() PASSED 
+2022-01-20 17:23:38,376 INFO  [Log] select_a_product() PASSED 
+2022-01-20 17:23:41,512 INFO  [Log] add_product_to_cart() PASSED 
+2022-01-20 17:23:42,321 ERROR [Log] go_to_cart() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 603c0539bc6fe2ef512bd83387ddb7ab
+*** Element info: {Using=css selector, value=a.a-link-normal span.a-size-medium } 
+2022-01-20 21:41:13,889 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#sp\-cc\-accept"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53501}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7bec126402757678d49e55de9fee2c2a
+*** Element info: {Using=id, value=sp-cc-accept} 
+2022-01-20 21:46:49,945 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#p_n_free_shipping_eligible\-title"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b1970e89693c12ba7ec8a54fc77c9e53
+*** Element info: {Using=id, value=p_n_free_shipping_eligible-title} 
+2022-01-20 21:49:59,087 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"closeBtn"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54412}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0465b4ecfd497ebb49163d304517849f
+*** Element info: {Using=css selector, value=closeBtn} 
+2022-01-20 21:54:09,447 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#p_n_free_shipping_eligible\-title"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54748}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9dab35471a782d7824c88655c362d600
+*** Element info: {Using=id, value=p_n_free_shipping_eligible-title} 
+2022-01-20 21:58:43,921 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":" button.dn-slide-accept-btn"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b223588c916bd02e638067c9b55ca905
+*** Element info: {Using=css selector, value= button.dn-slide-accept-btn} 
+2022-01-20 22:00:24,701 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":" button.dn-slide-accept-btn"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58312}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c3dec871c94a08c88cac329756af9ff3
+*** Element info: {Using=css selector, value= button.dn-slide-accept-btn} 
+2022-01-20 22:01:22,753 INFO  [Log] search_a_product() PASSED 
+2022-01-20 22:25:38,667 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#p_n_free_shipping_eligible\-title"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59745}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c155337550db09e2fdb125a4fd86582b
+*** Element info: {Using=id, value=p_n_free_shipping_eligible-title} 
+2022-01-20 22:27:32,153 INFO  [Log] search_a_product() PASSED 
+2022-01-20 22:46:58,311 ERROR [Log] select_a_product() FAILED with cause : null 
+2022-01-20 22:50:08,241 INFO  [Log] search_a_product() PASSED 
+2022-01-20 22:50:12,411 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60746}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 211e600cdac4c3be1e58a33bcf752b8f
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-01-20 22:50:12,446 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60746}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 211e600cdac4c3be1e58a33bcf752b8f
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-01-20 22:50:12,483 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60746}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 211e600cdac4c3be1e58a33bcf752b8f
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 22:51:21,005 INFO  [Log] search_a_product() PASSED 
+2022-01-20 22:51:28,735 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60927}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1805a11dc0d004a1af5780532079fe4f
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-01-20 22:51:28,836 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60927}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1805a11dc0d004a1af5780532079fe4f
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-01-20 22:51:28,878 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60927}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1805a11dc0d004a1af5780532079fe4f
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 22:55:24,102 INFO  [Log] search_a_product() PASSED 
+2022-01-20 22:55:34,999 INFO  [Log] select_a_product() PASSED 
+2022-01-20 22:55:35,252 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c2dafbc47129415fe43d35341b2a114f
+*** Element info: {Using=id, value=nav-cart-count} 
+2022-01-20 22:55:35,288 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c2dafbc47129415fe43d35341b2a114f
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 22:57:36,839 INFO  [Log] search_a_product() PASSED 
+2022-01-20 22:57:37,150 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":" div.product-add-cart > a.btn.btnGrey.addBasketUnify"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58003}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 43a767b09a19cfa71e1bc6f5f290e51d
+*** Element info: {Using=css selector, value= div.product-add-cart > a.btn.btnGrey.addBasketUnify} 
+2022-01-20 22:57:45,264 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58003}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 43a767b09a19cfa71e1bc6f5f290e51d
+*** Element info: {Using=id, value=nav-cart-count} 
+2022-01-20 22:57:45,290 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58003}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 43a767b09a19cfa71e1bc6f5f290e51d
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 22:59:12,031 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".productArea"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c15d1a62dd0947ada48f9fd597272f1
+*** Element info: {Using=css selector, value=.productArea} 
+2022-01-20 22:59:12,873 INFO  [Log] select_a_product() PASSED 
+2022-01-20 22:59:12,997 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c15d1a62dd0947ada48f9fd597272f1
+*** Element info: {Using=id, value=nav-cart-count} 
+2022-01-20 22:59:13,026 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c15d1a62dd0947ada48f9fd597272f1
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:00:05,111 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:00:12,767 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:00:12,978 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58374}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 273d2b53b9165c55718f7f3dbf7cada6
+*** Element info: {Using=id, value=nav-cart-count} 
+2022-01-20 23:00:13,012 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58374}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 273d2b53b9165c55718f7f3dbf7cada6
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:02:04,108 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:02:14,908 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"product-add-cart > .btn"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f097468b499603ba47aa2d9e75298c6
+*** Element info: {Using=css selector, value=product-add-cart > .btn} 
+2022-01-20 23:02:14,972 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"product-add-cart > .btn"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f097468b499603ba47aa2d9e75298c6
+*** Element info: {Using=css selector, value=product-add-cart > .btn} 
+2022-01-20 23:02:15,002 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f097468b499603ba47aa2d9e75298c6
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:09:26,956 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:09:41,674 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:09:41,899 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59051}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a73d63c673e582acc8caf17a4b0781d4
+*** Element info: {Using=id, value=nav-cart-count} 
+2022-01-20 23:09:41,942 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59051}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a73d63c673e582acc8caf17a4b0781d4
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:10:30,740 ERROR [Log] select_a_product() FAILED with cause : null 
+2022-01-20 23:10:51,217 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".productArea"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59367}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7504f2f65454dcc407489590476b589a
+*** Element info: {Using=css selector, value=.productArea} 
+2022-01-20 23:10:52,079 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:10:52,215 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59367}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7504f2f65454dcc407489590476b589a
+*** Element info: {Using=id, value=nav-cart-count} 
+2022-01-20 23:10:52,263 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59367}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7504f2f65454dcc407489590476b589a
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:11:53,376 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:14:34,736 ERROR [Log] add_product_to_cart() FAILED with cause : null 
+2022-01-20 23:15:04,155 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:15:11,176 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:15:11,439 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "" 
+2022-01-20 23:15:11,488 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59892}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1949883a856c78f6f5ffb62dde78a699
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:15:43,543 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:15:50,812 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:15:50,887 ERROR [Log] add_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f0d329c08e14b9fc9834757a1a0b05bf 
+2022-01-20 23:15:50,918 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60075}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f0d329c08e14b9fc9834757a1a0b05bf
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:17:29,671 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".productArea"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60302}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 65793b4100960abe39934c4e9af6878e
+*** Element info: {Using=css selector, value=.productArea} 
+2022-01-20 23:17:30,529 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:17:30,594 ERROR [Log] add_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60302}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 65793b4100960abe39934c4e9af6878e 
+2022-01-20 23:17:30,622 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60302}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 65793b4100960abe39934c4e9af6878e
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:18:00,819 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:18:08,680 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:18:08,912 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "" 
+2022-01-20 23:18:08,948 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60455}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 98e3008e37982e0be922e7e3c721a738
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:19:16,811 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:19:24,614 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:19:24,875 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "" 
+2022-01-20 23:19:24,919 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60662}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3f13a2cdd8cb2d5f240a933360e2be4d
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:21:28,819 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:21:37,413 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"div.product-add-cart.a.btn.btnGrey.addBasketUnify"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60938}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3ba2eed1e4af3107e4f7ac8d1d76d78
+*** Element info: {Using=css selector, value=div.product-add-cart.a.btn.btnGrey.addBasketUnify} 
+2022-01-20 23:21:37,447 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"div.product-add-cart.a.btn.btnGrey.addBasketUnify"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60938}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3ba2eed1e4af3107e4f7ac8d1d76d78
+*** Element info: {Using=css selector, value=div.product-add-cart.a.btn.btnGrey.addBasketUnify} 
+2022-01-20 23:21:37,613 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60938}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3ba2eed1e4af3107e4f7ac8d1d76d78
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:22:22,957 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:22:30,691 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".product-add-cart.a.btn.btnGrey.addBasketUnify"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61119}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e7033b92ad921162bcb251c9f2be54
+*** Element info: {Using=css selector, value=.product-add-cart.a.btn.btnGrey.addBasketUnify} 
+2022-01-20 23:22:30,772 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".product-add-cart.a.btn.btnGrey.addBasketUnify"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61119}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e7033b92ad921162bcb251c9f2be54
+*** Element info: {Using=css selector, value=.product-add-cart.a.btn.btnGrey.addBasketUnify} 
+2022-01-20 23:22:30,800 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61119}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e7033b92ad921162bcb251c9f2be54
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:25:32,817 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:25:33,084 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:25:40,939 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":".product-add-cart.a.btn.btnGrey.addBasketUnify"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61439}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c4e326d6d5c8fa7c2ed6278644f56f4
+*** Element info: {Using=css selector, value=.product-add-cart.a.btn.btnGrey.addBasketUnify} 
+2022-01-20 23:25:40,967 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61439}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c4e326d6d5c8fa7c2ed6278644f56f4
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:27:01,280 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:27:01,497 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:27:09,513 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "" 
+2022-01-20 23:27:09,570 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61638}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2825a43523838cab9bb5ee7ece0c7ff6
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-20 23:29:32,397 ERROR [Log] add_product_to_cart() FAILED with cause : null 
+2022-01-20 23:30:36,682 INFO  [Log] search_a_product() PASSED 
+2022-01-20 23:30:36,926 INFO  [Log] select_a_product() PASSED 
+2022-01-20 23:30:45,645 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "" 
+2022-01-20 23:30:45,686 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#nav\-cart\-count\-container"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 26dfa87aceb8b5ebfb3f9404b27fbc7e
+*** Element info: {Using=id, value=nav-cart-count-container} 
+2022-01-21 22:22:21,578 ERROR [Log] open_campaign_page() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#myLocation\-close\-info"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56577}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 23a3fea7d1f38e7b735d118dd1040a5f
+*** Element info: {Using=id, value=myLocation-close-info} 
+2022-01-21 23:10:21,793 ERROR [Log] open_campaign_page() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#myLocation\-close\-info"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58947}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b11d50f5cab3f9227dee756185ab669
+*** Element info: {Using=id, value=myLocation-close-info} 
+2022-01-21 23:10:24,883 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:12:03,022 ERROR [Log] open_campaign_page() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#myLocation\-close\-info"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59049}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b7a8aa08e78cd7283c2980a1a57ed64
+*** Element info: {Using=id, value=myLocation-close-info} 
+2022-01-21 23:12:05,419 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:13:36,134 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:13:41,782 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:14:20,302 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:14:27,687 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:15:57,123 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:16:09,768 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:16:29,435 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:16:32,905 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:17:52,427 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:17:59,413 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:18:30,304 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:18:36,891 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:19:49,434 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:19:55,965 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:21:46,206 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:21:52,184 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:30:39,832 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:30:46,131 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:33:06,830 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:33:06,882 ERROR [Log] click_campaign() FAILED with cause : invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50116}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f0cb0e9ccf714afa9ad012162dd99708
+*** Element info: {Using=css selector, value=div.wrapper:nth-child(4) div.content:nth-child(4) div.container div.promotionHolder div.flatTab.promotionListTab div.tabPanel:nth-child(2) div.panelContent.animate div.stickyPlaceHolder:nth-child(1) div.categoryMenuTab.sticky ul.campPromTab > li:nth-child()} 
+2022-01-21 23:34:02,023 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:34:02,077 ERROR [Log] click_campaign() FAILED with cause : invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f947c796b971cf5780e61b206c6e8549
+*** Element info: {Using=css selector, value=ul.campPromTab > li:nth-child()} 
+2022-01-21 23:34:28,113 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:34:28,164 ERROR [Log] click_campaign() FAILED with cause : invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50353}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7fd6ade8f787196d229b45a27306459b
+*** Element info: {Using=css selector, value=ul.campPromTab > li:nth-child} 
+2022-01-21 23:35:05,525 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:35:11,794 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:36:13,528 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:36:19,452 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:45:38,176 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:45:40,134 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:47:24,618 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:47:27,112 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:48:10,917 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:48:16,611 INFO  [Log] click_campaign() PASSED 
+2022-01-21 23:49:00,709 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:49:03,073 ERROR [Log] click_campaign() FAILED with cause : Index: 10, Size: 10 
+2022-01-21 23:49:37,683 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:49:40,014 ERROR [Log] click_campaign() FAILED with cause : Index: 10, Size: 10 
+2022-01-21 23:50:07,681 INFO  [Log] open_campaign_page() PASSED 
+2022-01-21 23:50:10,903 INFO  [Log] click_campaign() PASSED 
+2022-01-22 00:00:07,096 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 00:00:10,379 INFO  [Log] click_campaign() PASSED 
+2022-01-22 00:00:10,381 INFO  [Log] get_promotions() PASSED 
+2022-01-22 18:54:31,323 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 18:54:34,126 INFO  [Log] click_campaign() PASSED 
+2022-01-22 18:54:34,127 INFO  [Log] get_promotions() PASSED 
+2022-01-22 19:22:10,772 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 19:23:51,947 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 19:40:58,833 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 19:41:47,109 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 19:50:07,269 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 19:50:10,578 INFO  [Log] click_campaign() PASSED 
+2022-01-22 19:50:10,579 INFO  [Log] get_promotions() PASSED 
+2022-01-22 19:50:38,408 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 19:50:39,804 INFO  [Log] click_campaign() PASSED 
+2022-01-22 19:50:39,805 INFO  [Log] get_promotions() PASSED 
+2022-01-22 19:54:16,632 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 19:54:16,722 ERROR [Log] click_campaign() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"title"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PLNQMI7', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\doom\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62644}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9a7be7104e69a74d7134e11c3a915ab1
+*** Element info: {Using=css selector, value=title} 
+2022-01-22 19:54:16,731 INFO  [Log] get_promotions() PASSED 
+2022-01-22 20:24:04,116 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 20:24:05,168 INFO  [Log] click_campaign() PASSED 
+2022-01-22 20:24:05,169 INFO  [Log] get_promotions() PASSED 
+2022-01-22 20:27:51,338 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 20:27:52,434 INFO  [Log] click_campaign() PASSED 
+2022-01-22 20:27:52,436 INFO  [Log] get_promotions() PASSED 
+2022-01-22 20:29:06,184 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 20:37:15,823 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 20:38:10,031 ERROR [Log] click_campaign() FAILED with cause : Index: 171 
+2022-01-22 20:38:10,037 INFO  [Log] get_promotions() PASSED 
+2022-01-22 20:52:03,037 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 20:53:20,587 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 20:58:51,139 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 21:28:17,209 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 21:28:17,694 ERROR [Log] click_campaign() FAILED with cause : invalid selector: Unable to locate an element with the xpath expression //*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[${section}]/a because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[${section}]/a' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PLNQMI7', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\doom\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62833}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9299df89f476a9326666e3578ca45501
+*** Element info: {Using=xpath, value=//*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[${section}]/a} 
+2022-01-22 21:28:17,701 INFO  [Log] get_promotions() PASSED 
+2022-01-22 21:33:26,829 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 21:34:32,268 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 21:35:15,903 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 21:35:57,199 ERROR [Log] click_campaign() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.cssSelector: .group.category-19 (tried for 30 second(s) with 500 milliseconds interval) 
+2022-01-22 21:35:57,205 INFO  [Log] get_promotions() PASSED 
+2022-01-22 21:38:06,565 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 21:38:07,117 ERROR [Log] click_campaign() FAILED with cause : Index: 1, Size: 1 
+2022-01-22 21:38:07,123 INFO  [Log] get_promotions() PASSED 
+2022-01-22 21:41:04,826 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 21:41:46,292 ERROR [Log] click_campaign() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.cssSelector: .group.category-19 (tried for 30 second(s) with 500 milliseconds interval) 
+2022-01-22 21:41:46,298 INFO  [Log] get_promotions() PASSED 
+2022-01-22 21:51:35,810 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 21:52:17,944 ERROR [Log] click_campaign() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.cssSelector: .group.category-19 (tried for 30 second(s) with 500 milliseconds interval) 
+2022-01-22 21:52:17,950 INFO  [Log] get_promotions() PASSED 
+2022-01-22 21:54:06,265 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 21:57:40,703 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 22:02:22,191 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 22:06:12,387 INFO  [Log] open_campaign_page() PASSED 
+2022-01-22 22:41:06,918 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 00:43:54,342 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 00:44:37,887 ERROR [Log] click_campaign() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.cssSelector: .group.category-19 (tried for 30 second(s) with 500 milliseconds interval) 
+2022-01-23 00:44:37,894 INFO  [Log] get_promotions() PASSED 
+2022-01-23 00:45:00,775 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 00:45:31,256 ERROR [Log] click_campaign() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.cssSelector: .group.category-10 (tried for 30 second(s) with 500 milliseconds interval) 
+2022-01-23 00:45:31,264 INFO  [Log] get_promotions() PASSED 
+2022-01-23 00:46:04,215 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 00:47:24,810 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 00:47:56,954 ERROR [Log] click_campaign() FAILED with cause : chrome not reachable
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 031bb702a6eb152ed9548bfbdcc82f7b
+*** Element info: {Using=css selector, value=.group.category-19} 
+2022-01-23 00:47:56,962 INFO  [Log] get_promotions() PASSED 
+2022-01-23 00:49:11,765 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 00:49:55,527 ERROR [Log] click_campaign() FAILED with cause : Expected condition failed: waiting for visibility of element located by By.cssSelector: .group.category-19 (tried for 30 second(s) with 500 milliseconds interval) 
+2022-01-23 00:49:55,537 INFO  [Log] get_promotions() PASSED 
+2022-01-23 00:56:29,518 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 00:56:47,271 INFO  [Log] click_campaign() PASSED 
+2022-01-23 00:56:47,273 INFO  [Log] get_promotions() PASSED 
+2022-01-23 00:58:40,512 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 00:58:58,201 INFO  [Log] click_campaign() PASSED 
+2022-01-23 00:58:58,203 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:00:27,804 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:00:43,383 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:00:43,385 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:06:18,388 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:06:34,006 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:06:34,010 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:11:57,455 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:11:57,951 ERROR [Log] click_campaign() FAILED with cause : invalid selector: Unable to locate an element with the xpath expression //body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section['1']/a[] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section['1']/a[]' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58274}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8d16048cf9964273be230933f5d37fd7
+*** Element info: {Using=xpath, value=//body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section['1']/a[]} 
+2022-01-23 01:11:57,966 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:12:31,990 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:12:32,526 ERROR [Log] click_campaign() FAILED with cause : invalid selector: Unable to locate an element with the xpath expression //body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section['1']/a[] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section['1']/a[]' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58380}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e2c7d037f4f6d269919cc25d7b94f0f
+*** Element info: {Using=xpath, value=//body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section['1']/a[]} 
+2022-01-23 01:12:32,538 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:13:00,610 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:13:01,150 ERROR [Log] click_campaign() FAILED with cause : invalid selector: Unable to locate an element with the xpath expression //body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section['1']/a[] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section['1']/a[]' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58474}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4b4ad9e3b474c40fe088db89ea2f59f3
+*** Element info: {Using=xpath, value=//body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section['1']/a[]} 
+2022-01-23 01:13:01,163 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:15:29,017 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:15:44,559 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:15:44,561 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:17:20,348 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:17:35,696 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:17:35,698 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:19:23,960 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:19:24,632 ERROR [Log] click_campaign() FAILED with cause : invalid selector: Unable to locate an element with the xpath expression //body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section[$s]/a[]1 because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section[$s]/a[]1' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58950}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c788b8fae638f639b7de85894ccf8b6e
+*** Element info: {Using=xpath, value=//body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section[$s]/a[]1} 
+2022-01-23 01:19:24,647 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:20:54,877 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:20:55,411 ERROR [Log] click_campaign() FAILED with cause : Index: 1, Size: 0 
+2022-01-23 01:20:55,422 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:21:29,417 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:21:29,857 ERROR [Log] click_campaign() FAILED with cause : Index: 1, Size: 0 
+2022-01-23 01:21:29,865 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:22:28,983 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:22:29,493 ERROR [Log] click_campaign() FAILED with cause : invalid selector: Unable to locate an element with the xpath expression //body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section[$s]/a[] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section[$s]/a[]' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c9315a5efbd2cea6f913d7d4e717852
+*** Element info: {Using=xpath, value=//body/div[@id='wrapper']/div[@id='contentCampaignPromotion']/div[1]/div[2]/div[1]/div[2]/div[1]/section[$s]/a[]} 
+2022-01-23 01:22:29,508 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:23:00,407 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:23:00,938 ERROR [Log] click_campaign() FAILED with cause : Index: 1, Size: 0 
+2022-01-23 01:23:00,950 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:25:07,648 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:25:23,366 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:25:23,366 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:25:58,776 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:26:13,968 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:26:13,972 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:26:53,694 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:27:09,055 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:27:09,058 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:28:55,674 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:29:10,958 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:29:10,960 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:29:54,463 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:30:10,735 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:30:10,735 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:30:49,078 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:31:05,448 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:31:05,449 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:31:50,763 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:32:07,447 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:32:07,448 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:33:16,297 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:33:31,295 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:33:31,299 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:36:00,683 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:36:00,999 ERROR [Log] click_campaign() FAILED with cause : invalid selector: Unable to locate an element with the xpath expression //*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[]' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64442}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 91c5ced41897105c8d1abdc95d38a9b5
+*** Element info: {Using=xpath, value=//*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[]} 
+2022-01-23 01:36:01,010 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:36:23,101 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:36:23,444 ERROR [Log] click_campaign() FAILED with cause : invalid selector: Unable to locate an element with the xpath expression //*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[]' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64547}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c617b95c9ca9ceee9fd67e4202f6a1e3
+*** Element info: {Using=xpath, value=//*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[]} 
+2022-01-23 01:36:23,460 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:37:08,892 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:37:09,243 ERROR [Log] click_campaign() FAILED with cause : invalid selector: Unable to locate an element with the xpath expression //*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[]' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64650}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ba1156455cc0ac04064c5d108aa8ecf0
+*** Element info: {Using=xpath, value=//*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[]} 
+2022-01-23 01:37:09,256 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:37:43,629 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:38:01,137 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:38:01,140 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:40:36,807 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:40:47,765 ERROR [Log] click_campaign() FAILED with cause : Index: 10, Size: 10 
+2022-01-23 01:40:47,771 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:42:44,254 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:43:04,217 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:43:04,221 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:45:00,809 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:45:22,634 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:45:22,634 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:47:00,003 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:47:00,113 ERROR [Log] click_campaign() FAILED with cause : invalid selector: Unable to locate an element with the xpath expression //ul[contains(@class, 'campPromTab')]/li:not(.disabled) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//ul[contains(@class, 'campPromTab')]/li:not(.disabled)' is not a valid XPath expression.
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65368}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a460021c23d0bbc4b6fee1cb7824fff7
+*** Element info: {Using=xpath, value=//ul[contains(@class, 'campPromTab')]/li:not(.disabled)} 
+2022-01-23 01:47:00,128 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:47:57,293 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:48:15,075 ERROR [Log] click_campaign() FAILED with cause : Index: 10, Size: 10 
+2022-01-23 01:48:15,081 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:50:03,973 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:50:24,364 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:50:24,364 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:51:38,264 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:51:58,951 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:51:58,951 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:53:02,786 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:53:18,989 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:53:18,992 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:55:20,981 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:55:35,512 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:55:35,514 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:56:43,805 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:56:53,060 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:56:53,061 INFO  [Log] get_promotions() PASSED 
+2022-01-23 01:57:51,340 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 01:58:12,730 INFO  [Log] click_campaign() PASSED 
+2022-01-23 01:58:12,734 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:04:08,301 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:04:27,964 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:04:27,966 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:13:17,986 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:13:37,365 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:13:37,367 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:14:49,078 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:15:14,045 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:15:14,050 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:17:03,794 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:17:28,601 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:17:28,604 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:30:15,391 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:30:37,006 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:30:37,008 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:31:45,356 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:32:10,104 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:32:10,106 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:34:59,643 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:35:25,407 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:35:25,407 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:36:32,647 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:37:02,599 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:37:02,599 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:38:49,626 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:39:26,545 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:39:26,545 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:42:07,995 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:42:47,265 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:42:47,267 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:47:26,313 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:47:29,009 ERROR [Log] click_campaign() FAILED with cause : Index: 10, Size: 10 
+2022-01-23 02:47:29,015 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:48:27,302 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:48:37,050 ERROR [Log] click_campaign() FAILED with cause : Index: 10, Size: 10 
+2022-01-23 02:48:37,057 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:48:55,682 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:48:58,542 ERROR [Log] click_campaign() FAILED with cause : Index: 10, Size: 10 
+2022-01-23 02:48:58,549 INFO  [Log] get_promotions() PASSED 
+2022-01-23 02:50:16,661 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 02:50:55,626 INFO  [Log] click_campaign() PASSED 
+2022-01-23 02:50:55,630 INFO  [Log] get_promotions() PASSED 
+2022-01-23 12:02:41,329 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 12:03:20,914 INFO  [Log] click_campaign() PASSED 
+2022-01-23 12:03:20,916 INFO  [Log] get_promotions() PASSED 
+2022-01-23 16:49:17,696 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 16:49:57,368 INFO  [Log] click_campaign() PASSED 
+2022-01-23 16:49:57,372 INFO  [Log] get_promotions() PASSED 
+2022-01-23 16:56:05,264 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 16:56:09,274 ERROR [Log] click_campaign() FAILED with cause : Index: 1 
+2022-01-23 16:56:09,284 INFO  [Log] get_promotions() PASSED 
+2022-01-23 17:07:28,005 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 17:08:06,277 INFO  [Log] click_campaign() PASSED 
+2022-01-23 17:08:06,282 INFO  [Log] get_promotions() PASSED 
+2022-01-23 17:14:18,392 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 17:14:56,139 INFO  [Log] click_campaign() PASSED 
+2022-01-23 17:14:56,139 INFO  [Log] get_promotions() PASSED 
+2022-01-23 17:23:45,335 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 17:24:07,894 ERROR [Log] click_campaign() FAILED with cause : Index: 2 
+2022-01-23 17:24:07,910 INFO  [Log] get_promotions() PASSED 
+2022-01-23 17:29:23,799 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 17:29:46,831 ERROR [Log] click_campaign() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57751}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2f9aa506cafdc1fa686df678427e80ec
+*** Element info: {Using=xpath, value=//*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section[3]/ul/li/a} 
+2022-01-23 17:29:46,863 INFO  [Log] get_promotions() PASSED 
+2022-01-23 17:33:03,255 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 17:34:05,455 INFO  [Log] click_campaign() PASSED 
+2022-01-23 17:34:05,455 INFO  [Log] get_promotions() PASSED 
+2022-01-23 17:58:39,429 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 17:58:39,830 ERROR [Log] click_campaign() FAILED with cause : [Ljava.lang.Object; cannot be cast to [Ljava.lang.String; 
+2022-01-23 17:58:39,838 INFO  [Log] get_promotions() PASSED 
+2022-01-23 17:59:52,743 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:00:07,772 ERROR [Log] click_campaign() FAILED with cause : Index: 1 
+2022-01-23 18:00:07,787 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:04:06,761 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:04:44,466 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:04:44,575 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:05:47,243 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:06:49,400 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:06:49,400 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:08:33,488 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:09:37,032 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:09:37,032 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:11:54,540 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:12:56,533 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:12:56,533 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:15:58,401 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:17:00,881 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:17:00,881 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:19:19,444 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:20:22,230 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:20:22,232 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:21:48,700 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:22:17,192 ERROR [Log] click_campaign() FAILED with cause : Index: 34 
+2022-01-23 18:22:17,192 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:25:26,704 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:26:28,822 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:26:28,822 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:31:55,838 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:32:32,749 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:32:32,752 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:43:33,797 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:44:09,580 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:44:09,583 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:44:58,151 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:45:33,372 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:45:33,374 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:46:56,256 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:47:33,265 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:47:33,266 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:50:23,647 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:51:13,019 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:51:13,021 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:52:23,760 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:52:28,257 ERROR [Log] click_campaign() FAILED with cause : Index: 5 
+2022-01-23 18:52:28,268 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:52:44,743 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:53:31,592 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:53:31,593 INFO  [Log] get_promotions() PASSED 
+2022-01-23 18:54:50,871 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 18:55:38,915 INFO  [Log] click_campaign() PASSED 
+2022-01-23 18:55:38,917 INFO  [Log] get_promotions() PASSED 
+2022-01-23 19:44:17,019 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 19:45:00,521 INFO  [Log] click_campaign() PASSED 
+2022-01-23 19:45:00,525 INFO  [Log] get_promotions() PASSED 
+2022-01-23 19:47:34,721 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 19:48:13,043 INFO  [Log] click_campaign() PASSED 
+2022-01-23 19:48:13,045 INFO  [Log] get_promotions() PASSED 
+2022-01-23 19:49:39,322 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 19:49:41,701 ERROR [Log] click_campaign() FAILED with cause : Index: 20, Size: 20 
+2022-01-23 19:49:41,707 INFO  [Log] get_promotions() PASSED 
+2022-01-23 19:50:58,273 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 19:51:41,771 INFO  [Log] click_campaign() PASSED 
+2022-01-23 19:51:41,773 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:02:51,434 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:03:25,323 ERROR [Log] click_campaign() FAILED with cause : Index: 23 
+2022-01-23 20:03:25,334 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:03:53,956 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:03:59,252 ERROR [Log] click_campaign() FAILED with cause : Index: 7, Size: 7 
+2022-01-23 20:03:59,258 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:04:51,864 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:04:56,950 ERROR [Log] click_campaign() FAILED with cause : Index: 7, Size: 7 
+2022-01-23 20:04:56,957 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:05:39,743 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:07:54,363 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:08:39,296 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:09:15,291 INFO  [Log] click_campaign() PASSED 
+2022-01-23 20:09:15,300 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:20:04,181 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:20:40,081 INFO  [Log] click_campaign() PASSED 
+2022-01-23 20:20:40,081 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:23:40,471 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:24:44,407 INFO  [Log] click_campaign() PASSED 
+2022-01-23 20:24:44,409 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:26:30,191 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:27:34,346 INFO  [Log] click_campaign() PASSED 
+2022-01-23 20:27:34,347 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:32:07,190 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:38:44,139 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:38:44,545 ERROR [Log] click_campaign() FAILED with cause : [Ljava.lang.Object; cannot be cast to [Ljava.lang.String; 
+2022-01-23 20:38:44,556 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:42:13,772 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:42:50,055 INFO  [Log] click_campaign() PASSED 
+2022-01-23 20:42:50,055 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:50:33,420 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:51:09,955 INFO  [Log] click_campaign() PASSED 
+2022-01-23 20:51:09,957 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:52:32,080 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:53:08,127 INFO  [Log] click_campaign() PASSED 
+2022-01-23 20:53:08,129 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:55:38,867 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:55:50,522 ERROR [Log] click_campaign() FAILED with cause : Index: 10, Size: 10 
+2022-01-23 20:55:50,530 INFO  [Log] get_promotions() PASSED 
+2022-01-23 20:56:29,402 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 20:56:40,851 ERROR [Log] click_campaign() FAILED with cause : Index: 10, Size: 10 
+2022-01-23 20:56:40,858 INFO  [Log] get_promotions() PASSED 
+2022-01-23 21:00:41,183 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 21:01:17,907 INFO  [Log] click_campaign() PASSED 
+2022-01-23 21:01:17,909 INFO  [Log] get_promotions() PASSED 
+2022-01-23 21:02:31,921 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 21:03:07,860 INFO  [Log] click_campaign() PASSED 
+2022-01-23 21:03:07,862 INFO  [Log] get_promotions() PASSED 
+2022-01-23 21:29:41,829 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 21:30:19,439 INFO  [Log] click_campaign() PASSED 
+2022-01-23 21:30:19,924 INFO  [Log] get_promotions() PASSED 
+2022-01-23 21:35:44,211 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 21:36:21,150 INFO  [Log] click_campaign() PASSED 
+2022-01-23 21:36:21,289 ERROR [Log] get_promotions() FAILED with cause : null 
+2022-01-23 21:37:54,737 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 21:38:32,267 INFO  [Log] click_campaign() PASSED 
+2022-01-23 21:38:32,406 ERROR [Log] get_promotions() FAILED with cause : null 
+2022-01-23 21:40:06,929 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 21:40:43,836 INFO  [Log] click_campaign() PASSED 
+2022-01-23 21:41:18,490 INFO  [Log] get_promotions() PASSED 
+2022-01-23 21:46:04,977 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 21:46:42,477 INFO  [Log] click_campaign() PASSED 
+2022-01-23 21:47:16,819 INFO  [Log] get_promotions() PASSED 
+2022-01-23 21:58:09,437 ERROR [Log] open_campaign_page() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//body/div[@id='cookieUsagePopIn']/span[1]"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50385}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 58c83344a35cfd9a34fb8104e2cf2761
+*** Element info: {Using=xpath, value=//body/div[@id='cookieUsagePopIn']/span[1]} 
+2022-01-23 21:58:48,122 INFO  [Log] click_campaign() PASSED 
+2022-01-23 21:59:22,709 INFO  [Log] get_promotions() PASSED 
+2022-01-23 22:03:16,750 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:03:53,096 INFO  [Log] click_campaign() PASSED 
+2022-01-23 22:04:27,453 INFO  [Log] get_promotions() PASSED 
+2022-01-23 22:11:39,687 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:12:16,066 INFO  [Log] click_campaign() PASSED 
+2022-01-23 22:12:48,848 INFO  [Log] get_promotions() PASSED 
+2022-01-23 22:14:29,639 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:15:25,833 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:16:01,703 INFO  [Log] click_campaign() PASSED 
+2022-01-23 22:16:34,995 INFO  [Log] get_promotions() PASSED 
+2022-01-23 22:18:35,962 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:19:12,027 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:19:30,920 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:19:33,019 ERROR [Log] click_campaign() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64017}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf76bc4ae13e8f1b28d6bd9c996b8721
+*** Element info: {Using=xpath, value=//*[@id="contentCampaignPromotion"]/div/div[2]/div/div[2]/div/section} 
+2022-01-23 22:19:33,048 ERROR [Log] get_promotions() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=97.0.4692.71)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KEMAL', ip: '192.168.1.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\kemal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64017}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cf76bc4ae13e8f1b28d6bd9c996b8721
+*** Element info: {Using=css selector, value=div.panelContent div.categoryMenuTab:nth-child(1) ul.campPromTab li:not(.disabled) .title} 
+2022-01-23 22:20:26,170 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:21:02,477 INFO  [Log] click_campaign() PASSED 
+2022-01-23 22:21:36,597 INFO  [Log] get_promotions() PASSED 
+2022-01-23 22:24:17,868 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:24:53,336 INFO  [Log] click_campaign() PASSED 
+2022-01-23 22:25:26,898 ERROR [Log] get_promotions() FAILED with cause : .target\src\output.csv (Sistem belirtilen yolu bulamıyor) 
+2022-01-23 22:27:40,400 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:28:15,507 INFO  [Log] click_campaign() PASSED 
+2022-01-23 22:28:15,509 INFO  [Log] get_promotions() PASSED 
+2022-01-23 22:30:23,174 INFO  [Log] open_campaign_page() PASSED 
+2022-01-23 22:30:57,837 INFO  [Log] click_campaign() PASSED 
+2022-01-23 22:30:57,840 INFO  [Log] get_promotions() PASSED 
+2022-01-25 22:10:15,506 INFO  [Log] open_campaign_page() PASSED 
+2022-01-25 22:10:53,741 INFO  [Log] get_promotions() PASSED 
+2022-01-25 22:10:53,747 INFO  [Log] write_to_CSV() PASSED 
+2022-01-25 22:13:54,320 INFO  [Log] open_campaign_page() PASSED 
+2022-01-25 22:14:32,304 INFO  [Log] get_promotions() PASSED 
+2022-01-25 22:14:32,304 INFO  [Log] write_to_CSV() PASSED 
+2022-01-25 22:16:44,141 INFO  [Log] open_campaign_page() PASSED 
+2022-01-25 22:17:22,493 INFO  [Log] get_promotions() PASSED 
+2022-01-25 22:17:22,509 INFO  [Log] write_to_CSV() PASSED 
+2022-01-25 22:20:30,360 INFO  [Log] open_campaign_page() PASSED 
+2022-01-25 22:21:08,513 INFO  [Log] get_promotions() PASSED 
+2022-01-25 22:21:08,524 INFO  [Log] write_to_CSV() PASSED 
+2022-01-25 22:24:34,372 INFO  [Log] open_campaign_page() PASSED 
+2022-01-25 22:25:12,863 INFO  [Log] get_promotions() PASSED 
+2022-01-25 22:25:12,871 INFO  [Log] write_to_CSV() PASSED 
+2022-01-25 22:34:00,971 INFO  [Log] open_campaign_page() PASSED 
+2022-01-25 22:34:38,337 INFO  [Log] get_promotions() PASSED 
+2022-01-25 22:34:38,349 INFO  [Log] write_to_CSV() PASSED 
