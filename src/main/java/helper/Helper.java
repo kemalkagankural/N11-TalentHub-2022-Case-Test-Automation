@@ -13,5 +13,10 @@ public class Helper {
             e.printStackTrace();
         }
     }
-
+    public static void writeToCsv(String allpromotions) throws IOException {
+        String csv = "target/test-classes/output.csv";
+        CSVWriter writer = new CSVWriter(new FileWriter(csv));
+        writer.writeNext(new String[]{allpromotions});
+        writer.close();
+    }
 }

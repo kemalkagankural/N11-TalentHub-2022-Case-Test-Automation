@@ -1143,3 +1143,30 @@ Session ID: cf76bc4ae13e8f1b28d6bd9c996b8721
 2022-01-25 22:34:00,971 INFO  [Log] open_campaign_page() PASSED 
 2022-01-25 22:34:38,337 INFO  [Log] get_promotions() PASSED 
 2022-01-25 22:34:38,349 INFO  [Log] write_to_CSV() PASSED 
+2022-01-27 12:35:51,852 INFO  [Log] open_campaign_page() PASSED 
+2022-01-27 12:36:32,450 INFO  [Log] get_promotions() PASSED 
+2022-01-27 12:36:32,455 ERROR [Log] write_to_CSV() FAILED with cause : null 
+2022-01-27 12:38:32,846 INFO  [Log] open_campaign_page() PASSED 
+2022-01-27 12:39:11,656 INFO  [Log] get_promotions() PASSED 
+2022-01-27 12:39:11,671 INFO  [Log] write_to_CSV() PASSED 
+2022-01-27 12:41:06,388 INFO  [Log] open_campaign_page() PASSED 
+2022-01-27 12:41:45,856 INFO  [Log] get_promotions() PASSED 
+2022-01-27 12:41:45,868 INFO  [Log] write_to_CSV() PASSED 
+2022-02-04 19:29:41,996 INFO  [Log] open_campaign_page() PASSED 
+2022-02-04 19:30:17,110 INFO  [Log] get_promotions() PASSED 
+2022-02-04 19:30:17,138 INFO  [Log] write_to_CSV() PASSED 
+2022-02-04 19:33:29,466 INFO  [Log] open_campaign_page() PASSED 
+2022-02-04 19:33:36,758 ERROR [Log] get_promotions() FAILED with cause : Index: 44, Size: 44 
+2022-02-04 19:33:36,774 INFO  [Log] write_to_CSV() PASSED 
+2022-02-04 19:34:16,955 INFO  [Log] open_campaign_page() PASSED 
+2022-02-04 19:34:32,727 ERROR [Log] get_promotions() FAILED with cause : Index: 17, Size: 17 
+2022-02-04 19:34:32,742 INFO  [Log] write_to_CSV() PASSED 
+2022-02-04 19:35:29,534 INFO  [Log] open_campaign_page() PASSED 
+2022-02-04 19:36:06,598 INFO  [Log] get_promotions() PASSED 
+2022-02-04 19:36:06,609 INFO  [Log] write_to_CSV() PASSED 
+2022-02-04 19:38:55,578 INFO  [Log] open_campaign_page() PASSED 
+2022-02-04 19:39:32,435 INFO  [Log] get_promotions() PASSED 
+2022-02-04 19:39:32,447 INFO  [Log] write_to_CSV() PASSED 
+2022-02-04 19:40:54,663 INFO  [Log] open_campaign_page() PASSED 
+2022-02-04 19:41:30,696 INFO  [Log] get_promotions() PASSED 
+2022-02-04 19:41:30,706 INFO  [Log] write_to_CSV() PASSED 
