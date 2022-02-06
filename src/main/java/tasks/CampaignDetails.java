@@ -21,7 +21,7 @@ public class CampaignDetails extends BasePage {
         super(driver);
     }
 
-
+       //Get the name of the campaign
         public void getCampaign() {
             promotionsNames = new ArrayList<>();
             bpromotionsNames = new ArrayList<>();
@@ -34,7 +34,7 @@ public class CampaignDetails extends BasePage {
         }
         }
     }
-
+    //Write the name of the campaign and the link to the file
     public void writeToCSV() throws IOException {
       Helper.writeToCsv(bpromotionsNames.toString()+promotionsNames.toString());
     }
