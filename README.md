@@ -16,5 +16,8 @@ You need to run the test to access the csv file.The csv file is located inside t
 - Selenium-java
 - Webdrivermanager
 
-
+## Test Steps
+- Go to home page
+- Click to categories and get links
+- Get campaigns links to csv
 
