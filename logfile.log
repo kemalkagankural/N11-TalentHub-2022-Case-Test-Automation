@@ -1170,3 +1170,6 @@ Session ID: cf76bc4ae13e8f1b28d6bd9c996b8721
 2022-02-04 19:40:54,663 INFO  [Log] open_campaign_page() PASSED 
 2022-02-04 19:41:30,696 INFO  [Log] get_promotions() PASSED 
 2022-02-04 19:41:30,706 INFO  [Log] write_to_CSV() PASSED 
+2022-02-06 14:19:22,293 INFO  [Log] open_campaign_page() PASSED 
+2022-02-06 14:19:57,614 INFO  [Log] get_promotions() PASSED 
+2022-02-06 14:19:57,614 INFO  [Log] write_to_CSV() PASSED 

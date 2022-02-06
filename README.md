@@ -7,7 +7,8 @@
 
 # Test Case Description
 
-This repo was created for N11 Web Testing Automation.Within the project, a test scenario were written using Java Selenium and Page Object Model.This scenario is about to writing promotions on the Campaigns page to a CSV file.Test scenarios and runners are included under "test/testrunner”.
+This repo was created for N11 Web Testing Automation.Within the project, a test scenario were written using Java Selenium and Page Object Model.This scenario is about to writing promotions on the Campaigns page to a CSV file.Test scenarios and runners are included under "test/testrunner”.Also
+You need to run the test to access the csv file.The csv file is located inside the Target file.
 
 ## Requirements Before Installation
 - Java
